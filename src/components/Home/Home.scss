@@ -10,7 +10,7 @@
     font-size: 25px;
     font-family: 'Ranade', sans-serif;
 
-    h5{
+    h6{
         margin-top: 0;
         line-height: 0;
     }
@@ -40,6 +40,7 @@
         font-size: 60px;
 
         overflow: hidden;
+        cursor: pointer;
     }
 
     &__firstBox > *{
@@ -47,6 +48,9 @@
         margin-right: 50px;
         animation: title 6s linear infinite;
     }
+
+    
+
     &__secondBox > *{
         display: inline-block;
         margin-right: 110px;

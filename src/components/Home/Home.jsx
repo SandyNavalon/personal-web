@@ -6,8 +6,8 @@ const Home = () => {
     return(
         <div className='container'>
             <div className='containerWelcome'>
-                <h2>SANDRA NAVALON</h2>
-                <h5>front-end developer</h5>
+                <h3>SANDRA NAVALON</h3>
+                <h6>front-end developer</h6>
             </div>
             <div className='containerMenu'>
                 <div className='containerMenu__firstBox'>
